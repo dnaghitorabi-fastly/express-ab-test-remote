@@ -1,0 +1,15 @@
+{
+  "name": "express_ab_test",
+  "version": "1.0.0",
+  "description": "Express AB test for my onboarding to Solutions",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Donovan Naghitorabi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
